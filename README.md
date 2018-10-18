@@ -4,4 +4,4 @@ There will be a gear on the rear axel. There will also be a gear connnected to t
 The Gears will be perpendicular to eachother and will turn with eachother. 
 
 ![](first_concept.png)
-![](gears.png)
+![](gear.png)
