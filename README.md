@@ -6,3 +6,6 @@ There will also be a servo in the front that will turn the front wheels back and
 
 ![](first_concept.png)
 ![](gear.PNG)
+
+
+![](Servo controlled.gif)
