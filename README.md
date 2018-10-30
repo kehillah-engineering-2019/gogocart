@@ -9,3 +9,6 @@ There will also be a servo in the front that will turn the front wheels back and
 
 
 ![](Servo_controlled.gif)
+
+
+![](real_gear.jpg)
