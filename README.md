@@ -8,4 +8,4 @@ There will also be a servo in the front that will turn the front wheels back and
 ![](gear.PNG)
 
 
-![](Servo controlled.gif)
+![](Servo_controlled.gif)
