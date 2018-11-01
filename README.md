@@ -12,3 +12,11 @@ There will also be a servo in the front that will turn the front wheels back and
 
 
 ![](real_gear.jpg)
+
+
+We havent updated any of the modeling yet but are still trying to get all the electrical components to work together. 
+We got a demo to make the motor spin purely to make sure we could get it to work with the motor controller.
+currently we are able to have the motor spinning and control the servo with the remote controll. our next step is to
+get the motor to only spin if receiving comands from the remote and not constantly spinning. 
+
+![](progress_1.gif)
