@@ -20,3 +20,8 @@ currently we are able to have the motor spinning and control the servo with the 
 get the motor to only spin if receiving comands from the remote and not constantly spinning. 
 
 ![](progress_1.gif)
+
+
+
+The two channels of the remote controller is connected to the motor and the servo. The wheel controls the servo while the trigger controls the motor. 
+![]
