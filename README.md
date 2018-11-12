@@ -24,4 +24,6 @@ get the motor to only spin if receiving comands from the remote and not constant
 
 
 The two channels of the remote controller is connected to the motor and the servo. The wheel controls the servo while the trigger controls the motor. 
+
+
 ![](Progress_2.gif)
