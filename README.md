@@ -27,3 +27,7 @@ The two channels of the remote controller is connected to the motor and the serv
 
 
 ![](Progress_2.gif)
+
+
+
+![](prototype_steering_linkage.png)
