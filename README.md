@@ -30,4 +30,4 @@ The two channels of the remote controller is connected to the motor and the serv
 
 
 
-![](prototype_steering_linkage.png)
+![](prototype_steering_linkage.PNG)
