@@ -43,4 +43,6 @@ Having the wheels turn through the axle and move without interfering with the ca
 ![](ball_bearing_2.jpg)
 
 We placed the circuit, red board, motor, the battery pack, and receiver all on the car base. We attached the wheels and all the other components to finalize it. 
+
+
 ![](RC_car.gif.gif)
