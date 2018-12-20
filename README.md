@@ -35,3 +35,9 @@ We have made many designs of gears to make the motor the car go faster. Making p
 The car base has been modeled and we cut out the carbon fiber to make it an axle for the wheels. 
 
 ![](car_base.svg)
+
+Having the wheels turn through the axle and move without interfering with the car base. We used ball bearing, created a tiny piece for the axle to go through the ball bearing, and a 3D-printed base to glue the ball bearings onto the car base. 
+
+![](ball_bearing.svg)
+
+![]()
