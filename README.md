@@ -42,6 +42,31 @@ Having the wheels turn through the axle and move without interfering with the ca
 
 ![](ball_bearing_2.jpg)
 
+Example of code:
+ if(pwm_value <1500 && pwm_value >1460){
+
+    digitalWrite(In3, LOW);
+
+     digitalWrite(In4, LOW); 
+
+     motorSpeed = 0;
+    
+   if(pwm_value >1550){
+
+    digitalWrite(In3, HIGH);
+
+    digitalWrite(In4, LOW);
+
+    // set speed to 150 out 255
+
+    
+
+    motorSpeed = map(pwm_value,1470 ,1970 , 0, 255);
+
+  }
+  
+If the input value is at a certain number, it will make the motor spin. This code will make sure to receive the right input value. 
+
 We placed the circuit, red board, motor, the battery pack, and receiver all on the car base. We attached the wheels and all the other components to finalize it. 
 
 
