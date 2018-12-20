@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="159.2888mm"
+   height="229.28873mm"
+   viewBox="0 0 159.2888 229.28873"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="car_base.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="160 : 105 : 1"
+       inkscape:persp3d-origin="79.999999 : 70 : 1"
+       id="perspective818" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88044926"
+     inkscape:cx="301.01822"
+     inkscape:cy="433.30154"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-154.56881,42.74138)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ec0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 206.81308,-42.64138 V 17.847008 H 154.66881 V 124.40392 h 24.24506 v 62.04342 h 112.74271 v -61.77057 h 22.10104 V 17.986265 H 263.00619 V -42.64138 Z"
+       id="rect834"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(-154.56881,42.74138)"
+     id="g869"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy 2">
+    <rect
+       y="-24.692406"
+       x="224.21385"
+       height="42.518734"
+       width="19.998735"
+       id="rect863"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ec0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="Layer 1 copy 2 copy"
+     inkscape:groupmode="layer"
+     id="g921"
+     transform="translate(-154.56881,42.74138)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ec0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path907-1"
+       cx="229.25044"
+       cy="-28.86647"
+       r="2.25089" />
+    <circle
+       cy="-28.86647"
+       cx="239.55762"
+       id="circle919-9"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ec0000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="2.25089" />
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:0;stroke:#ec0000;stroke-width:0.21340425;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect823"
+       width="6.1965957"
+       height="42.996597"
+       x="188.77257"
+       y="134.19104" />
+  </g>
+  <g
+     id="g3727"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy 1"
+     transform="translate(-154.56881,42.74138)" />
+  <g
+     inkscape:label="Layer 1 copy 1 copy"
+     inkscape:groupmode="layer"
+     id="g3733"
+     transform="translate(-154.56881,42.74138)" />
+  <g
+     id="g3739"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy 1 copy copy"
+     transform="translate(-154.56881,42.74138)" />
+  <g
+     id="g3717"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy"
+     transform="translate(-154.56881,42.74138)" />
+</svg>
