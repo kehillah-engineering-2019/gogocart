@@ -40,4 +40,4 @@ Having the wheels turn through the axle and move without interfering with the ca
 
 ![](ball_bearing.svg)
 
-![]()
+![](ball_bearing_2.svg)
