@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="steering.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.3988724"
+     inkscape:cx="381.62741"
+     inkscape:cy="590.99128"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:0;stroke:#ec0000;stroke-width:0.53299999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="120"
+       height="40"
+       x="44.488232"
+       y="122.75444" />
+    <circle
+       style="opacity:1;fill:#008000;fill-opacity:0;stroke:#ec0000;stroke-width:0.0931677;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path825"
+       cx="104.48824"
+       cy="127.10459"
+       r="0.70341617" />
+  </g>
+  <g
+     id="g837"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy 1">
+    <circle
+       cy="159.37889"
+       cx="104.48824"
+       id="circle835"
+       style="opacity:1;fill:#008000;fill-opacity:0;stroke:#ec0000;stroke-width:0.0931677;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="0.70341617" />
+  </g>
+  <g
+     id="g831"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1 copy" />
+</svg>
